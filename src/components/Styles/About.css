@@ -1,0 +1,11 @@
+.about {
+    padding: 2rem;
+    background-color: #fff;
+  }
+  
+  .about img {
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 1rem;
+  }
+  
